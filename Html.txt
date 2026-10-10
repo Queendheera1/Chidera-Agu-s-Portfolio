@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Chidera Angelica Agu — Quality Analyst Portfolio</title>
+<style>
+  :root{
+    --ink:#111827; --muted:#4b5563; --line:#e5e7eb; --bg:#f8fafc;
+    --navy:#0f2b46; --teal:#0e7490; --chip:#ecfeff; --accent:#155e75;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg); line-height:1.6;}
+  .wrap{max-width:960px; margin:0 auto; padding:0 24px;}
+  header{background:linear-gradient(135deg,var(--navy),#1d4e6e); color:#fff; padding:64px 0 56px;}
+  header .role{letter-spacing:.18em; text-transform:uppercase; font-size:.8rem; color:#7dd3fc;}
+  header h1{font-size:2.6rem; margin:8px 0 12px; line-height:1.15;}
+  header p.sub{max-width:640px; color:#d7e6f2; font-size:1.05rem;}
+  .badges{margin-top:20px; display:flex; flex-wrap:wrap; gap:10px;}
+  .badge{background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.25); padding:6px 14px; border-radius:999px; font-size:.8rem;}
+  section{padding:48px 0; border-bottom:1px solid var(--line);}
+  h2{font-size:1.5rem; color:var(--navy); margin-bottom:6px;}
+  h2 .num{color:var(--teal); font-weight:700; margin-right:8px;}
+  .lead{color:var(--muted); margin-bottom:28px; max-width:680px;}
+  h3{font-size:1.05rem; margin:26px 0 10px; color:var(--ink);}
+  .chips{display:flex; flex-wrap:wrap; gap:10px;}
+  .chip{background:var(--chip); border:1px solid #a5f3fc; color:var(--accent); padding:7px 14px; border-radius:999px; font-size:.85rem; font-weight:500;}
+  table{width:100%; border-collapse:collapse; background:#fff; border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:.88rem; margin-top:12px;}
+  th{background:#f1f5f9; text-align:left; padding:10px 12px; color:var(--navy); font-weight:600; border-bottom:1px solid var(--line);}
+  td{padding:10px 12px; border-bottom:1px solid #f1f5f9; vertical-align:top;}
+  tr:last-child td{border-bottom:none;}
+  .sev{display:inline-block; padding:2px 10px; border-radius:999px; font-size:.72rem; font-weight:700;}
+  .sev-high{background:#fee2e2; color:#b91c1c;} .sev-med{background:#fef3c7; color:#b45309;} .sev-low{background:#dcfce7; color:#15803d;}
+  .card{background:#fff; border:1px solid var(--line); border-radius:12px; padding:22px; margin-top:14px;}
+  .quote{border-left:3px solid var(--teal); background:#f0f9ff; padding:12px 16px; border-radius:0 8px 8px 0; font-size:.9rem; color:#0c4a6e; margin-top:10px;}
+  footer{padding:40px 0 60px; color:var(--muted); font-size:.9rem;}
+  footer a{color:var(--teal);}
+  .note{font-size:.78rem; color:var(--muted); margin-top:8px;}
+  .kpis{display:flex; flex-wrap:wrap; gap:14px; margin-top:18px;}
+  .kpi{background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 22px; flex:1 1 160px;}
+  .kpi b{display:block; font-size:1.5rem; color:var(--teal);}
+  .kpi span{font-size:.8rem; color:var(--muted);}
+  @media(max-width:640px){ header h1{font-size:2rem;} td,th{padding:8px;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="role">Quality Analyst · Remote</div>
+    <h1>Chidera Angelica Agu</h1>
+    <p class="sub">Quality-focused analyst who reviews work against guidelines and rubrics, documents errors clearly, and turns recurring issues into better processes — proven across AI evaluation and executive operations.</p>
+    <div class="badges">
+      <span class="badge">📍 Lagos, Nigeria · UTC+1</span>
+      <span class="badge">✉️ chideraangelicaagu@gmail.com</span>
+      <span class="badge">🔗 linkedin.com/in/aguchidera</span>
+      <span class="badge">💼 +234 814 285 2391</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<section>
+  <h2><span class="num">01</span>About</h2>
+  <p class="lead">
+    I'm a detail-driven analyst with a B.Sc. in Biochemistry (FUTO, 2024) and nearly two years evaluating AI-generated
+    outputs against detailed guidelines for Apple-related AI projects, plus three years keeping quality high in
+    executive operations for the President of a 10,000+ vendor organization. I work methodically: load the standard,
+    review against it, document every inconsistency, and surface recurring issues so the process itself improves.
+    I'm comfortable with ambiguity, async teamwork across time zones, and I write feedback that is specific and actionable.
+  </p>
+  <div class="chips">
+    <span class="chip">Guideline-based AI output evaluation</span>
+    <span class="chip">Error &amp; inconsistency identification</span>
+    <span class="chip">Structured result documentation</span>
+    <span class="chip">Process &amp; checklist improvement</span>
+    <span class="chip">Async remote teamwork</span>
+    <span class="chip">Zero-error distribution tracking</span>
+    <span class="chip">ChatGPT · Gemini · Qwen AI</span>
+    <span class="chip">Google Workspace &amp; CRM</span>
+  </div>
+  <div class="kpis">
+    <div class="kpi"><b>~2 yrs</b><span>AI output evaluation against guidelines</span></div>
+    <div class="kpi"><b>24h → &lt;4h</b><span>Communication turnaround, improved</span></div>
+    <div class="kpi"><b>~60%</b><span>Fewer scheduling conflicts</span></div>
+    <div class="kpi"><b>0 errors</b><span>Across 30+ monthly distributions</span></div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">02</span>Work Sample: Rubric-Based Review</h2>
+  <p class="lead">How I review a deliverable against a rubric and write feedback a contributor can act on — the same method I applied evaluating AI outputs for Apple-related projects.</p>
+
+  <div class="card">
+    <h3>Reviewed item: customer-support email draft (sample exercise)</h3>
+    <table>
+      <tr><th>Rubric criterion</th><th>Score</th><th>Issues found</th><th>Severity</th></tr>
+      <tr><td>Answers the customer's actual question</td><td>2/5</td><td>Responds to the wrong billing period; question about the March charge is not addressed.</td><td><span class="sev sev-high">High</span></td></tr>
+      <tr><td>Accuracy of information</td><td>3/5</td><td>Refund timeline stated as 3–5 days; policy says 7–10 business days.</td><td><span class="sev sev-high">High</span></td></tr>
+      <tr><td>Tone &amp; empathy</td><td>4/5</td><td>Opens well but closing line reads as dismissive ("That's all we can do").</td><td><span class="sev sev-med">Med</span></td></tr>
+      <tr><td>Formatting &amp; grammar</td><td>4/5</td><td>One run-on sentence in paragraph 2; missing space after "Hi,".</td><td><span class="sev sev-low">Low</span></td></tr>
+    </table>
+    <div class="quote">
+      <strong>Structured feedback written to the contributor:</strong> "Thanks for the quick turnaround. Two blockers
+      before this can pass: (1) the customer asked about a March charge — please answer that directly in the first
+      paragraph; (2) our refund policy is 7–10 business days, so '3–5 days' must be corrected to avoid a follow-up
+      complaint. Once those are fixed, soften the closing line to e.g. 'Happy to help if anything else comes up.'
+      Grammar fixes are minor and noted inline."
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">03</span>Work Sample: Reusable QA Checklist</h2>
+  <p class="lead">A checklist I use to keep reviews consistent — no item passes just because it was checked last time. Building and refining checklists like this is how I cut recurring back-and-forth in my operations roles.</p>
+  <div class="card">
+    <table>
+      <tr><th>Stage</th><th>Check</th><th>Pass rule</th></tr>
+      <tr><td>1. Setup</td><td>Latest rubric/guideline version loaded</td><td>Must match version in the task brief</td></tr>
+      <tr><td>2. Completeness</td><td>All required sections/fields present</td><td>Zero missing sections</td></tr>
+      <tr><td>3. Accuracy</td><td>Facts, figures, links verified against source</td><td>Zero unverified claims</td></tr>
+      <tr><td>4. Consistency</td><td>Terminology &amp; style match the guide</td><td>Zero unexplained deviations</td></tr>
+      <tr><td>5. Documentation</td><td>Every error logged with severity + location</td><td>100% of errors logged</td></tr>
+      <tr><td>6. Feedback</td><td>Contributor receives specific, actionable notes</td><td>No vague feedback ("improve this")</td></tr>
+      <tr><td>7. Metrics</td><td>Error category &amp; count entered in tracker</td><td>Logged same day</td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">04</span>Case Studies</h2>
+  <p class="lead">Challenge → what I did → measurable result.</p>
+
+  <div class="card">
+    <h3>Evaluating AI-generated outputs for Apple-related AI projects</h3>
+    <p><strong>Challenge:</strong> Assess AI-generated outputs against detailed, frequently changing guidelines while keeping accuracy and consistency across quality-sensitive workflows.<br>
+    <strong>What I did:</strong> Applied structured judgment to score outputs against rubrics, flagged inconsistencies, documented results accurately, and adapted fast each time instructions, models, or evaluation criteria changed.<br>
+    <strong>Result:</strong> Maintained accuracy and consistency across ~2 years of independent, detail-sensitive review work while meeting all project expectations.</p>
+  </div>
+
+  <div class="card">
+    <h3>Executive quality &amp; communications operations — Alaba International Market</h3>
+    <p><strong>Challenge:</strong> High-volume correspondence and coordination for the President of a 10,000+ vendor organization, with slow turnaround (~24h) and frequent scheduling conflicts.<br>
+    <strong>What I did:</strong> Triaged and drafted priority communications, rebuilt scheduling and follow-up processes, tracked tasks and deadlines centrally, and coordinated 30+ stakeholder communications monthly.<br>
+    <strong>Result:</strong> Turnaround cut from ~24 hours to under 4; ~60% fewer scheduling conflicts; zero reported distribution errors; continuity maintained independently during leadership absences.</p>
+  </div>
+
+  <div class="card">
+    <h3>Consistent content quality across freelance brands (2021 – present)</h3>
+    <p><strong>Challenge:</strong> Keep voice, quality, and deadlines consistent across multiple brands and projects simultaneously.<br>
+    <strong>What I did:</strong> Built content schedules, edited to a consistent standard, and used AI-assisted tools to speed research and organization.<br>
+    <strong>Result:</strong> Multiple long-term client relationships with on-time delivery across concurrent projects.</p>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">05</span>Availability &amp; Setup</h2>
+  <p class="lead">
+    ✅ Reliable internet connection and a quiet, dedicated workspace &nbsp;·&nbsp; ✅ 20 hours/week, with consistent
+    12:00 PM–4:00 PM EST coverage, Monday–Friday &nbsp;·&nbsp; ✅ Comfortable with evolving standards, feedback, and ambiguity
+    &nbsp;·&nbsp; ✅ Proven async collaboration across time zones.
+  </p>
+</section>
+
+<footer>
+  <p>Get in touch: <a href="mailto:chideraangelicaagu@gmail.com">chideraangelicaagu@gmail.com</a> · linkedin.com/in/aguchidera · +234 814 285 2391</p>
+</footer>
+
+</div>
+</body>
+</html>
